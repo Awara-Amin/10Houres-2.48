@@ -1,2 +1,2 @@
-# 10Houres-2.48
+# 10Hours-course-1
 Created with CodeSandbox
